@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00599C&center=true&vCenter=true&width=800&lines=%22鹅鹅鹅,+曲项向天歌%22;%22春花秋月何时了,+往事知多少%22;%22问君能有几多愁?+恰似一江春水向东流%22;%22无言独上西楼,+月如钩。+寂寞梧桐深院锁清秋%22;%22剪不断,+理还乱,+是离愁。+别是一般滋味在心头%22;%22老夫聊发少年狂,+左牵黄,+右擎苍%22;%22会挽雕弓如满月,+西北望,+射天狼%22;" height="100" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&weight=700&size=28&pause=1000&color=00599C&center=true&vCenter=true&width=800&lines=%22鹅鹅鹅,+曲项向天歌%22;%22春花秋月何时了,+往事知多少%22;%22问君能有几多愁?+恰似一江春水向东流%22;%22无言独上西楼,+月如钩。+寂寞梧桐深院锁清秋%22;%22剪不断,+理还乱,+是离愁。+别是一般滋味在心头%22;%22老夫聊发少年狂,+左牵黄,+右擎苍%22;%22会挽雕弓如满月,+西北望,+射天狼%22;" height="100" alt="Typing SVG" />
   </a>
 </div>
 
