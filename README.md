@@ -7,10 +7,11 @@ https://readme-typing-svg.demolab.com/demo/?weight=700&size=28&color=00599C&cent
  -->
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding cat"/>
-</div>
+</div> -->
 
+<!--
 ### 👾 Welcome to the Mainframe
 
 I'm a Full-Stack Developer who converts caffeine into UI components and API endpoints. 
@@ -20,6 +21,7 @@ I'm a Full-Stack Developer who converts caffeine into UI components and API endp
 - 🐛 **Latest achievement:** I stared at a bug for three hours, and in the end, a new bug was born.
 - 🌱 **Learning:** How to exit Vim without restarting the computer.
 - ⚡ **Fun fact:** I write code in dark mode because light attracts bugs.
+ -->
 
 ### ⚙️ Tech Stack & Tools
 
